@@ -1,0 +1,13 @@
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\bin\Debug\netcoreapp3.1\Encontro-22POO.exe
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\bin\Debug\netcoreapp3.1\Encontro-22POO.deps.json
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\bin\Debug\netcoreapp3.1\Encontro-22POO.runtimeconfig.json
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\bin\Debug\netcoreapp3.1\Encontro-22POO.runtimeconfig.dev.json
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\bin\Debug\netcoreapp3.1\Encontro-22POO.dll
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\bin\Debug\netcoreapp3.1\Encontro-22POO.pdb
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\obj\Debug\netcoreapp3.1\Encontro-22POO.csproj.AssemblyReference.cache
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\obj\Debug\netcoreapp3.1\Encontro-22POO.AssemblyInfoInputs.cache
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\obj\Debug\netcoreapp3.1\Encontro-22POO.AssemblyInfo.cs
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\obj\Debug\netcoreapp3.1\Encontro-22POO.csproj.CoreCompileInputs.cache
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\obj\Debug\netcoreapp3.1\Encontro-22POO.dll
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\obj\Debug\netcoreapp3.1\Encontro-22POO.pdb
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro-22POO\obj\Debug\netcoreapp3.1\Encontro-22POO.genruntimeconfig.cache

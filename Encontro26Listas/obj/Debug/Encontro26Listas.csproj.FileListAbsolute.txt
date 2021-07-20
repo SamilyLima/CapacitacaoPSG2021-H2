@@ -1,0 +1,7 @@
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro26Listas\bin\Debug\Encontro26Listas.exe.config
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro26Listas\bin\Debug\Encontro26Listas.exe
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro26Listas\bin\Debug\Encontro26Listas.pdb
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro26Listas\obj\Debug\Encontro26Listas.csproj.AssemblyReference.cache
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro26Listas\obj\Debug\Encontro26Listas.csproj.CoreCompileInputs.cache
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro26Listas\obj\Debug\Encontro26Listas.exe
+C:\Users\LAB05\source\repos\CapacitacaoPSG2021-H2\Encontro26Listas\obj\Debug\Encontro26Listas.pdb
