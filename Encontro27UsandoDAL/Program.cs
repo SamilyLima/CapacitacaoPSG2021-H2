@@ -15,7 +15,7 @@ namespace Encontro27UsandoDAL
 
             List<Municipio> municipios = crud.Municipios.ToList();
 
-            Console.WriteLine("Lista de Regiões:");
+            Console.WriteLine("Lista de Municípios:");
 
             foreach (var item in municipios)
             {
