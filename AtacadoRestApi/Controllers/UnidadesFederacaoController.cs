@@ -1,4 +1,4 @@
-﻿using Atacado.DAL.Model;
+using Atacado.DAL.Model;
 using Atacado.POCO.Model;
 using System;
 using System.Collections.Generic;
@@ -6,12 +6,21 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Description;
 
 namespace AtacadoRestApi.Controllers
 {
+    /// <summary>
+    /// Serviços para a tabela UnidadesFederação.
+    /// </summary>
     public class UnidadesFederacaoController : ApiController
     {
-        // GET: api/UnidadesFederacao
+        /// <summary>
+        /// Obter todos os registros da tabela.
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        [ResponseType(typeof(List<UnidadesFederacaoPoco>))]
         public List<UnidadesFederacaoPoco> Get()
         {
             AtacadoModel contexto = new AtacadoModel();
@@ -29,7 +38,13 @@ namespace AtacadoRestApi.Controllers
             return unidadesPoco;
         }
 
-        // GET: api/UnidadesFederacao/5
+        /// <summary>
+        /// Obter registro baseado na chave primária.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        [HttpGet]
+        [ResponseType(typeof(UnidadesFederacaoPoco))]
         public UnidadesFederacaoPoco Get(int id)
         {
 
@@ -52,7 +67,13 @@ namespace AtacadoRestApi.Controllers
 
         }
 
-        // POST: api/UnidadesFederacao
+        /// <summary>
+        /// Criar um novo registro na tabela.
+        /// </summary>
+        /// <param name="poco">Registro a ser criado.</param>
+        /// <returns></returns>
+        [HttpPost]
+        [ResponseType(typeof(UnidadesFederacaoPoco))]
         public UnidadesFederacaoPoco Post([FromBody] UnidadesFederacaoPoco poco)
         {
             UnidadesFederacao unidadeFederacao = new UnidadesFederacao();
@@ -77,7 +98,14 @@ namespace AtacadoRestApi.Controllers
 
          }
 
-        // PUT: api/UnidadesFederacao/5
+        /// <summary>
+        /// Alterar um registro da tabela.
+        /// </summary>
+        /// <param name="id">Chave primária do registro.</param>
+        /// <param name="poco">Registro a ser alterado.</param>
+        /// <returns></returns>
+        [HttpPut]
+        [ResponseType(typeof(UnidadesFederacaoPoco))]
         public UnidadesFederacaoPoco Put(int id, [FromBody] UnidadesFederacaoPoco poco)
         {
 
@@ -98,7 +126,12 @@ namespace AtacadoRestApi.Controllers
 
         }
 
-        // DELETE: api/UnidadesFederacao/5
+        /// <summary>
+        /// Excluir um reistro de uma tabela.
+        /// </summary>
+        /// <param name="id">Chave primária do registro.</param>
+        [HttpDelete]
+        [ResponseType(typeof(UnidadesFederacaoPoco))]
         public void Delete(int id)
         {
 
